@@ -1,4 +1,4 @@
-from uk.ac.ebi.core.brain import Brain
+from uk.ac.ebi.brain.core import Brain
 
 b = Brain()
 b.learn("http:purl.obo.obolibrary.org/obo/pato.owl")
