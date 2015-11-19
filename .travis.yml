@@ -20,3 +20,4 @@ before_script:
 script:
     - jython print_args.py a b c 1 2 3   # python only test
     - jython call_owltools.py            # jython test calling owltools
+    - jython call_brain.py
