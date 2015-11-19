@@ -66,10 +66,10 @@
 	        <artifactId>Brain</artifactId>
 	        <version>1.5.1</version>
 	    </dependency>
-        <dependency>
-            <groupId>org.bbop</groupId>
+ <!--        <dependency>
+           <groupId>org.bbop</groupId>
             <artifactId>OWLTools-Core</artifactId>
             <version>${owltools.version}</version>
-        </dependency>
+        </dependency> -->
     </dependencies>
 </project>
